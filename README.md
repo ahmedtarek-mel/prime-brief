@@ -4,6 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-brightgreen?style=for-the-badge&logo=streamlit&logoColor=white)](https://prime-brief.streamlit.app/)
 [![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge)](https://www.crewai.com/)
 [![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
 
@@ -12,7 +13,7 @@
 *Prime Brief leverages autonomous AI agents to distill complex web research into clear, actionable executive summaries directly in your inbox.*
 
 
-[Features](#features) • [Quick Start](#quick-start) • [Architecture](#architecture) • [Configuration](#configuration) • [Usage](#usage)
+[Live Demo](https://prime-brief.streamlit.app/) • [Features](#features) • [Quick Start](#quick-start) • [Architecture](#architecture) • [Configuration](#configuration) • [Usage](#usage)
 
 ## Preview
 
