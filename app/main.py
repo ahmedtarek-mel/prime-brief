@@ -1,5 +1,5 @@
 """
-AI Research Crew Pro - Main Application
+prime-brief - Main Application
 
 Streamlit-based web interface for the multi-agent
 research and reporting system.
