@@ -6,6 +6,12 @@ research and reporting system.
 """
 
 import streamlit as st
+import sys
+import os
+
+# Add the project root to sys.path
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from dotenv import load_dotenv
 
 # Load environment variables first
